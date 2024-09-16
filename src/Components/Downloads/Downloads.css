@@ -4,6 +4,7 @@
     font-size: 1.1rem;
     border-radius: 0.5rem;
     margin-left: 4rem;
+    cursor: pointer;
 }
 
 .format_Div{
@@ -11,7 +12,7 @@
     height: 6rem;
     margin-left: 3rem;
     border-radius: 0.5rem;
-    background-color: firebrick;
+    background-color:  rgb(47, 47, 47);
 }
 .format_Binder{
    display: flex;   
@@ -23,22 +24,24 @@
 .JPEG_format{
     height: 2rem;
     width: 7rem;
-    background-color: darkgreen;
+    background-color: rgb(200, 200, 200);
     border-radius: 0.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .png_format{
     height: 2rem;
     width: 7rem;
-    background-color:darkkhaki;
+    background-color: rgb(200, 200, 200);
     border-radius: 0.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 0.5rem;
+    cursor: pointer;
 }
 
 @media only screen and (max-width:1280px){
@@ -48,6 +51,7 @@
         font-size: 0.9rem;
         border-radius: 0.5rem;
         margin-left: 3.5rem;
+        cursor: pointer;
     }
     
     .format_Div{
@@ -55,7 +59,7 @@
         height: 6rem;
         margin-left: 3.5rem;
         border-radius: 0.5rem;
-        background-color: firebrick;
+        background-color:  rgb(47, 47, 47);
     }
     .format_Binder{
        display: flex;   
@@ -67,22 +71,24 @@
     .JPEG_format{
         height: 2rem;
         width: 5rem;
-        background-color: darkgreen;
+        background-color:  rgb(200, 200, 200);
         border-radius: 0.5rem;
         display: flex;
         justify-content: center;
         align-items: center;
+        cursor: pointer;
     }
     
     .png_format{
         height: 2rem;
         width: 5rem;
-        background-color:darkkhaki;
+        background-color: rgb(200, 200, 200);
         border-radius: 0.5rem;
         display: flex;
         justify-content: center;
         align-items: center;
         margin-top: 0.5rem;
+        cursor: pointer;
     }
 }
 
@@ -93,6 +99,7 @@
         font-size: 1.1rem;
         border-radius: 0.5rem;
         margin-left: 1.5rem;
+        cursor: pointer;
     }
     
     .format_Div{
@@ -100,7 +107,7 @@
         height: 6rem;
         margin-left: 1rem;
         border-radius: 0.5rem;
-        background-color: firebrick;
+        background-color:  rgb(47, 47, 47);
     }
     .format_Binder{
        display: flex;   
@@ -112,22 +119,24 @@
     .JPEG_format{
         height: 2rem;
         width: 5rem;
-        background-color: darkgreen;
+        background-color: rgb(200, 200, 200);
         border-radius: 0.5rem;
         display: flex;
         justify-content: center;
         align-items: center;
+        cursor: pointer;
     }
     
     .png_format{
         height: 2rem;
         width: 5rem;
-        background-color:darkkhaki;
+        background-color: rgb(200, 200, 200);
         border-radius: 0.5rem;
         display: flex;
         justify-content: center;
         align-items: center;
         margin-top: 0.5rem;
+        cursor: pointer;
     }
 }
 
@@ -138,6 +147,7 @@
         font-size: 1.1rem;
         border-radius: 0.5rem;
         margin-left: 1rem;
+        cursor: pointer;
     }
     
     .format_Div{
@@ -145,7 +155,7 @@
         height: 6rem;
         margin-left: 0.5rem;
         border-radius: 0.5rem;
-        background-color: firebrick;
+        background-color:  rgb(47, 47, 47);
     }
     .format_Binder{
        display: flex;   
@@ -157,21 +167,23 @@
     .JPEG_format{
         height: 2rem;
         width: 5rem;
-        background-color: darkgreen;
+        background-color:  rgb(200, 200, 200);
         border-radius: 0.5rem;
         display: flex;
         justify-content: center;
         align-items: center;
+        cursor: pointer;
     }
     
     .png_format{
         height: 2rem;
         width: 5rem;
-        background-color:darkkhaki;
+        background-color: rgb(200, 200, 200);
         border-radius: 0.5rem;
         display: flex;
         justify-content: center;
         align-items: center;
         margin-top: 0.5rem;
+        cursor: pointer;
     }
 }
