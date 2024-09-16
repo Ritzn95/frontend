@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Slider.css"
+import "./Sliders.css"
 import { useContextProvider } from '../../Context/Context'
 import { ImageConfigure } from '../../hooks/ImageConfigure';
 
